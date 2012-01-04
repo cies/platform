@@ -1,0 +1,3 @@
+# Algorithmic experiments
+
+Mainly in the corner of 'user karma'...
